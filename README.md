@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Fire Diamond APK Download</title>
+    
+    <!-- GOOGLE ADSENSE AUTO ADS CODE -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6260714798601662" crossorigin="anonymous"></script>
+
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
@@ -112,7 +116,7 @@
         <!-- App Preview / Image Section -->
         <div class="app-card">
             <div class="image-box">
-                <!-- Yahan apni app ki logo image ka naam dalein (jaise app-logo.png) -->
+                <!-- App logo image name -->
                 <img src="app-logo.png" alt="App APK Preview" class="app-img">
             </div>
             
